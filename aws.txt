@@ -1,0 +1,4 @@
+Hi This is docker file 
+I want to push this file to local 
+commands : git clone <url of repo>
+git pull --> pull the changes from remote to local
